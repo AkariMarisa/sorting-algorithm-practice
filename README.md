@@ -4,7 +4,7 @@
 > [Geeks for geeks - Sorting algorithm](https://www.geeksforgeeks.org/sorting-algorithms/)
 
 - [x] Quick Sort
-- [ ] Merge Sort
+- [x] Merge Sort
 - [ ] Heap Sort
 - [ ] Insertion Sort
 - [ ] Tim Sort
