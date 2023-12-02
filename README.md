@@ -5,7 +5,7 @@
 
 - [x] Quick Sort
 - [x] Merge Sort
-- [ ] Heap Sort
+- [x] Heap Sort
 - [ ] Insertion Sort
 - [ ] Tim Sort
 - [ ] Selection Sort
